@@ -1,0 +1,1 @@
+epochs=300 model=v8n lr0=0.0001  0.925
